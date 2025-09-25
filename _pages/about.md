@@ -32,3 +32,4 @@ I will graduate from [The Hong Kong University of Science and Technology (HKUST)
 
 I obtained my B.Mgmt. in Big data management and application from [SUSTech](https://www.sustech.edu.cn/en/) in 2024. I’ve interned at [ByteDance](https://www.bytedance.com/en/), [KPMG](https://www.kpmg.com/cn/en/home.html), [Ipsos Strategy3](https://www.ipsos.com/en/ipsosstrategy3) and [Ping An Technology](https://tech.pingan.com).
 
+I have lots of hobbies, such as playing basketball, swimming, reading, and playing games. I am also interested in music, photography, and travel.
