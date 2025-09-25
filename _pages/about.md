@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: IT Consultant in KPMG (Will be in Nov.) [闫瑞泽｜閆瑞澤｜He/Him/His]
+subtitle: IT Consultant in KPMG (Will be in Nov.) [ 闫瑞泽｜閆瑞澤｜He/Him/His ]
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>MBTI: ENFP/J</p>
     <p>Zodiac sign: Gemini♊️</p>
     <p>Hometown: Xi'an</p>
+    <p>Current Location: Shenzhen</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,6 +29,8 @@ latest_posts:
 ---
 
 I will graduate from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk)in October with a Master's degree in Information System Mangement. I will work as an IT consultant in [KPMG](https://kpmg.com/cn/en/home.html) from November.
+
+I obtained my B.Mgmt. in Big data management and application from [SUSTech](https://www.sustech.edu.cn/en/) in 2024. I’ve interned at [ByteDance](https://www.bytedance.com/en/), [KPMG](https://www.kpmg.com/cn/en/home.html), [Ipsos Strategy3](https://www.ipsos.com/en/ipsosstrategy3) and [Ping An Technology](https://tech.pingan.com).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
