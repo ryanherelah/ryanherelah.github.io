@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: IT Consultant in KPMG (Will be in Nov.) [闫瑞泽｜閆瑞澤｜He/Him/His]
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MBTI: ENFP/J</p>
+    <p>Zodiac sign: Gemini♊️</p>
+    <p>Hometown: Xi'an</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I will graduate from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk)in October with a Master's degree in Information System Mangement. I will work as an IT consultant in [KPMG](https://kpmg.com/cn/en/home.html) from November.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
